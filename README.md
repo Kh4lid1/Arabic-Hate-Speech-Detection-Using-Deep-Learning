@@ -17,9 +17,9 @@ Custom evaluation metrics were used (F1-score, accuracy).
 
 Examples:
 
-https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030311.png
-https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030400.png
-https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030421.png
-https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030445.png
-https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030508.png
-https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030533.png
+!https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030311.png
+!https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030400.png
+!https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030421.png
+!https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030445.png
+!https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030508.png
+!https://github.com/Kh4lid1/Arabic-Hate-Speech-Detection-Using-Deep-Learning/blob/4c73b4dc583cfa28afa8c152ee72ea4e50edcb70/Examples/Screenshot%202025-04-21%20030533.png
